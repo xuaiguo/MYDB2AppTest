@@ -6,5 +6,5 @@ package com.app.xag.mydb2apptest.util;
 
 public class test1
 {
-    public static final int VERBOSE =1;
+    public static final int VERBOSE =1010;
 }
