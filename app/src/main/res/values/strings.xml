@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MYDB2AppTest</string>
+    <string name="bt1">插入数据save</string>
+    <string name="bt2">查询数据</string>
+    <string name="bt3">插入数据insert</string>
+
+    <string name="bt4">更新数据</string>
+    <string name="bt5">删除数据</string>
+    <string name="bt6">未知6</string>
+
+    <string name="bt7">未知7</string>
+    <string name="bt8">未知8</string>
+    <string name="bt9">未知9</string>
+
+    <string name="bt10">未知10</string>
+    <string name="bt11">未知11</string>
+    <string name="bt12">未知12</string>
+</resources>
